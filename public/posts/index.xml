@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blogs</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2022 12:03:45 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inteljs_shortcuts</title>
+      <link>http://example.org/posts/inteljs_shortcuts/</link>
+      <pubDate>Tue, 06 Sep 2022 12:03:45 +0530</pubDate>
+      
+      <guid>http://example.org/posts/inteljs_shortcuts/</guid>
+      <description> Shortcut Detail cmd + shift + a Universal Shortcut f1 Toggle side bar cmd + shift + t Refactoring menu f2 Go to highlighted error opt + f12 Open terminal opt + enter suggestions </description>
+    </item>
+    
+    <item>
+      <title>Java Programming</title>
+      <link>http://example.org/posts/learning_java/</link>
+      <pubDate>Thu, 01 Sep 2022 09:28:00 +0530</pubDate>
+      
+      <guid>http://example.org/posts/learning_java/</guid>
+      <description>Java was originally developed by James Gosling at Sun Microsystems in 1995. It is object oriented language.
+Simple Program in java.
+class HelloWorld{ public static void main(String[] args){ System.out.println(&amp;#34;Hello World&amp;#34;); } } Guidelines Class names should be capital. It&amp;rsquo;s better to have one class in one file Name file same as class name it contains. Primitive Data Types Data type Size short 8 bit byte int 32 bit double 64 bit float Constructor Method Overloading Method Overriding static Keyword Declares the method or variable within the class scope instead of the instances.</description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 27 Aug 2022 18:37:20 +0530</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Dot Painting </description>
+    </item>
+    
+  </channel>
+</rss>

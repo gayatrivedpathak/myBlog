@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/posts/inteljs_shortcuts/</loc>
+    <lastmod>2022-09-06T12:03:45+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-09-06T12:03:45+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-09-06T12:03:45+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/learning_java/</loc>
+    <lastmod>2022-09-01T09:28:00+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/my-first-post/</loc>
+    <lastmod>2022-08-27T18:37:20+05:30</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>
