@@ -6,4 +6,4 @@ draft: false
 
 # Dot Painting
 
-![paint](/images/dot_painting.jpg)
+[paint](/images/dot_painting.jpg)
